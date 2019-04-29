@@ -1,0 +1,2 @@
+when running node.js server vs running the golang server, i saw that the golang server was able to also inheriantly also serve the css
+along with the css, i ran a node server and i did not bring in the CSS.
